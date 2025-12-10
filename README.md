@@ -114,11 +114,11 @@ class DinithKasthuriarachchi:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=050505&title_color=ccff00&icon_color=00ffff&text_color=ffffff&border_color=ccff00)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinithimalsha&show_icons=true&theme=dark&bg_color=050505&title_color=ccff00&icon_color=00ffff&text_color=ffffff&border_color=ccff00)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=050505&title_color=ccff00&text_color=ffffff&border_color=ccff00)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinithimalsha&layout=compact&theme=dark&bg_color=050505&title_color=ccff00&text_color=ffffff&border_color=ccff00)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&background=050505&ring=ccff00&fire=ccff00&currStreakLabel=ccff00&sideNums=ffffff&sideLabels=ffffff&dates=00ffff&border=ccff00)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dinithimalsha&theme=dark&background=050505&ring=ccff00&fire=ccff00&currStreakLabel=ccff00&sideNums=ffffff&sideLabels=ffffff&dates=00ffff&border=ccff00)
 
 </div>
 
@@ -182,6 +182,6 @@ I'm always open to discussing **AI innovations**, **motorsport technology**, or 
   <i>"Pushing the limits of what's possible at the intersection of AI and motorsport 🏎️⚡"</i>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=ccff00&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Dinithimalsha&color=ccff00&style=for-the-badge)
 
 </div>
