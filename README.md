@@ -39,9 +39,9 @@ I specialize in **Reinforcement Learning**, **Vehicle Digital Twins**, and **Mod
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinithimalsha&show_icons=true&theme=dark&bg_color=050505&title_color=ccff00&icon_color=00ffff&text_color=ffffff&border_color=ccff00&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Dinithimalsha&show_icons=true&theme=dark&bg_color=050505&title_color=ccff00&icon_color=00ffff&text_color=ffffff&border_color=ccff00&hide_border=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinithimalsha&layout=compact&theme=dark&bg_color=050505&title_color=ccff00&text_color=ffffff&border_color=ccff00&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinithimalsha&layout=compact&theme=dark&bg_color=050505&title_color=ccff00&text_color=ffffff&border_color=ccff00&hide_border=true" alt="Top Languages" />
 
 </div>
 
