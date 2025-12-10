@@ -14,7 +14,7 @@
 <div align="center">
   <br />
   <!-- PORTFOLIO LAUNCHER -->
-  <a href="https://portfolio-gilt-xi-58.vercel.app/">
+  <a href="https://your-portfolio-link.vercel.app">
     <img src="https://img.shields.io/badge/🚀_INITIATE_DIGITAL_TWIN_(PORTFOLIO)-000000?style=for-the-badge&logo=spacex&logoColor=ccff00&labelColor=1a1a1a" height="40" />
   </a>
   <br /><br />
